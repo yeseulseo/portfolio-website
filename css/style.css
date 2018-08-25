@@ -55,3 +55,11 @@ a:hover {
 }
 
 /* Button styles */
+button {
+  border: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  background-color: #040442;
+  color: #FFFFFF;
+  text-align: center;
+}
