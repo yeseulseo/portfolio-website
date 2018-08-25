@@ -7,7 +7,7 @@ Secondary Color (Black): #000000
 Secondary Color (Cyan): #AFEEEE
 */
 
-/* Text styles */
+/* text style */
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
@@ -41,7 +41,6 @@ p {
   line-height: 1.6;
 }
 
-/* Link styles */
 a {
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
@@ -54,7 +53,12 @@ a:hover {
   color: #AFEEEE;
 }
 
-/* Button styles */
+div {
+  padding: 10px 5px 10px 5px;
+  margin: 10px 5px 10px 5px;
+}
+
+/* button style */
 button {
   border: none;
   font-family: 'Raleway', sans-serif;
