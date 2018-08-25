@@ -62,4 +62,12 @@ button {
   background-color: #040442;
   color: #FFFFFF;
   text-align: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+button:hover,
+button:focus {
+  cursor: pointer;
+  opacity: 0.8;
 }
