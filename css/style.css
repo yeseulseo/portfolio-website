@@ -62,18 +62,23 @@ div {
 
 /* button style */
 button {
-  border: none;
+  border: 2px solid #040442;
   font-family: 'Raleway', sans-serif;
-  font-size: 19px;
   background-color: #040442;
-  color: #FFFFFF;
+  font-size: 19px;
+  color: #040442;
   text-align: center;
   text-decoration: none;
-  padding: 10px;
+  border-radius: 3px;
+  padding: 10px 10px;
 }
 
 button:hover,
 button:focus {
+  background-color: #FFFFFF;
+  color: #AFEEEE;
+  border: 2px solid #040442;
   cursor: pointer;
   opacity: 0.8;
+  transition-duration: 0.5s;
 }
