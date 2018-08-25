@@ -5,6 +5,7 @@ Primary Color (Navy): #040442;
 Primary Color (White): #FFFFFF;
 Secondary Color (Black): #000000
 Secondary Color (Cyan): #AFEEEE
+Secondary Color (Red): #960016
 */
 
 /* text style */
@@ -31,6 +32,7 @@ h2 {
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+  font-weight: medium;
   text-align: center;
 }
 
