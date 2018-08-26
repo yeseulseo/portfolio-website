@@ -3,9 +3,9 @@ Colors used
 
 Primary Color (Navy): #040442;
 Primary Color (White): #FFFFFF;
-Secondary Color (Black): #000000
-Secondary Color (Cyan): #AFEEEE
-Secondary Color (Turquoise): #00ced1
+Secondary Color (Black): #000000;
+Secondary Color (Cyan): #AFEEEE;
+Secondary Color (Turquoise): #00ced1;
 */
 
 /* text style */
@@ -51,7 +51,7 @@ a:hover {
 }
 
 a:active {
-
+  color: #040442;
 }
 
 div {
