@@ -12,13 +12,14 @@ Secondary Color (Red): #960016
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
+  color: #000000;
   line-height: 1.6;
 }
 
 h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
-  color: #FFFFFF;
+  color: #040442;
   text-align: left;
 }
 
