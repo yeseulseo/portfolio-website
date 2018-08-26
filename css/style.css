@@ -5,7 +5,7 @@ Primary Color (Navy): #040442;
 Primary Color (White): #FFFFFF;
 Secondary Color (Black): #000000
 Secondary Color (Cyan): #AFEEEE
-Secondary Color (Red): #960016
+Secondary Color (Turquoise): #00ced1
 */
 
 /* text style */
@@ -37,13 +37,21 @@ h3 {
 a {
   font-size: 22px;
   font-weight: 700;
-  color: #AFEEEE;
+  color: #00ced1;
   text-decoration: none;
+}
+
+a:visited {
+  color: #00ced1;
 }
 
 a:hover {
   text-decoration: none;
   color: #AFEEEE;
+}
+
+a:active {
+
 }
 
 div {
