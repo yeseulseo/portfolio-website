@@ -35,8 +35,8 @@ h3 {
 }
 
 a {
-  font-family: 'Open Sans', sans-serif;
   font-size: 22px;
+  font-weight: 700;
   color: #AFEEEE;
   text-decoration: none;
 }
