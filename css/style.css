@@ -10,38 +10,37 @@ Secondary Color (Red): #960016
 
 /* text style */
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 19px;
-  font-weight: normal;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
   color: #000000;
   line-height: 1.6;
 }
 
 h1 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
   font-weight:700;
   color: #040442;
 }
 
 h2 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 31px;
   font-weight:700;
   color: #040442;
 }
 
 h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 22px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 a {
-  font-family: 'Raleway', sans-serif;
-  font-size: 24px;
-  font-weight:600;
-  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  color: #AFEEEE;
   text-decoration: none;
 }
 
@@ -58,10 +57,10 @@ div {
 /* button style */
 button {
   border: 2px solid #040442;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
   background-color: #040442;
   font-size: 24px;
-  font-weight:600;
+  font-weight:700;
   color: #040442;
   text-align: center;
   text-decoration: none;
