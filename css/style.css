@@ -62,14 +62,13 @@ div {
 /* button style */
 .button {
   border: 2px solid #040442;
-  font-family: 'Lato', sans-serif;
+  font-family: inherit;
   background-color: #040442;
-  font-size: 22px;
-  font-weight:700;
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
-  padding: 10px 10px;
+  text-transform: uppercase;
+  padding: 10px 15px 12px 15px;
   margin: 4px 2px;
   transition-duration: 0.5s;
 }
