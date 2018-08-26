@@ -20,13 +20,14 @@ body {
 h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
+  font-weight:700;
   color: #040442;
-  text-align: left;
 }
 
 h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  font-weight:700;
   color: #040442;
   text-align: center;
 }
@@ -34,13 +35,14 @@ h2 {
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
-  font-weight: medium;
+  font-weight: 600;
   text-align: center;
 }
 
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
+  font-weight:400;
   color: #000000;
   line-height: 1.6;
 }
@@ -48,6 +50,7 @@ p {
 a {
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
+  font-weight:600;
   color: #000000;
   text-decoration: none;
 }
@@ -68,6 +71,7 @@ button {
   font-family: 'Raleway', sans-serif;
   background-color: #040442;
   font-size: 19px;
+  font-weight:600;
   color: #040442;
   text-align: center;
   text-decoration: none;
