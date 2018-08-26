@@ -77,7 +77,7 @@ div {
 .button:hover,
 .button:focus {
   background-color: #FFFFFF;
-  color: #AFEEEE;
+  color: #040442;
   cursor: pointer;
   opacity: 0.8;
 }
