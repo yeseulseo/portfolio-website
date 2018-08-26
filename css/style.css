@@ -12,6 +12,7 @@ Secondary Color (Red): #960016
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
+  font-weight: normal;
   color: #000000;
   line-height: 1.6;
 }
