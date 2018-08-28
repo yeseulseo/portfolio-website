@@ -133,7 +133,8 @@ a:active {
 
 /* Footer */
 footer {
-  background-color: #AFEEEE;
+  background-color: #FFFFFF;
+  border-top: 2px solid #040442;
 }
 
 footer div {
