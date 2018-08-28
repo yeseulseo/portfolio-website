@@ -126,4 +126,7 @@ a:active {
     width: 49%;
     margin-right: 1%;
   }
+  .column-4:nth-child(2) {
+    margin-right: 0;
+  }
 }
