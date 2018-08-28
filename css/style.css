@@ -21,18 +21,21 @@ body {
 h1 {
   font-size: 32px;
   font-weight:700;
+  text-align:center;
   color: #040442;
 }
 
 h2 {
   font-size: 31px;
   font-weight:700;
+  text-align:center;
   color: #040442;
 }
 
 h3 {
   font-size: 22px;
   font-weight: 700;
+  text-align:center;
 }
 
 a {
@@ -90,8 +93,8 @@ a:active {
   font-size: 0;
 }
 
-.column-4 {
-  width: 24%;
+.column-3 {
+  width: 32%;
   display: inline-block;
   margin-right: 1%;
   float: center;
@@ -140,6 +143,11 @@ footer {
 footer div {
   float: left;
   margin-right: 15px;
+}
+
+footer svg {
+  width: 36px;
+  padding-bottom: 15px;
 }
 
 /* Responsive styling */
