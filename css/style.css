@@ -90,15 +90,15 @@ a:active {
   font-size: 0;
 }
 
-.column-3 {
-  width: 33%;
+.column-4 {
+  width: 24%;
   display: inline-block;
   margin-right: 1%;
   float: left;
   text-align: center;
 }
 
-.column-3:last-child {
+.column-4:last-child {
   margin-right: 0;
 }
 
