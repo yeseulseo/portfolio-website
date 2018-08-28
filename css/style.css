@@ -100,18 +100,13 @@ a:active {
   text-align: center;
 }
 
-.column-4:last-child {
+.column-3:last-child {
   margin-right: 0;
 }
 
 .preview-img {
   width: 300px;
   height: 300px;
-}
-
-.no-bullet {
-  margin-left: 0;
-  list-style: none;
 }
 
 /* Header */
