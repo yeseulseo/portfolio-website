@@ -112,3 +112,18 @@ a:active {
   display: inline-block;
   margin-left: 10px;
 }
+
+/* Responsive styling */
+@media all and (max-width: 500px) {
+  .logo {
+    height: 50px;
+  }
+  h1 {
+    font-size: 24px;
+    text-align: left;
+  }
+  .column-4 {
+    width: 49%;
+    margin-right: 1%;
+  }
+}
