@@ -15,6 +15,7 @@ body {
   font-weight: 400;
   color: #000000;
   line-height: 1.6;
+  margin: 0;
 }
 
 h1 {
@@ -74,9 +75,40 @@ a:active {
 }
 
 /* Layout styling */
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.columns-container {
+  font-size: 0;
+}
+
+.column-3 {
+  width: 33%;
+  display: inline-block;
+  margin-right: 1%;
+  float: left;
+  text-align: center;
+}
+
+.column-3:last-child {
+  margin-right: 0;
+}
+
+.navigation {
+  list-style-type: none;
+  padding: 0;
+  float: right;
+}
+
+.navigation > li {
+  display: inline-block;
+  margin-left: 10px;
 }
