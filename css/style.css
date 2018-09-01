@@ -298,7 +298,7 @@ footer svg:hover {
 
 /* About */
 #about {
-  padding: 30px 0 100px 0;
+  padding: 40px 0 100px 0;
 }
 
 #about .wrapper {
@@ -307,7 +307,7 @@ footer svg:hover {
 
 #about .portrait {
   width: 20%;
-  border-radius: 50%;
+  border-radius: 30%;
   display: block;
   margin: 40px auto 20px auto;
 }
@@ -320,8 +320,8 @@ footer svg:hover {
 #about h2 {
   font-weight:700;
   font-size: 30px;
-  text-align: left;
-  margin-top: 50px;
+  text-align: center;
+  margin-top: 40px;
 }
 
 #about span {
