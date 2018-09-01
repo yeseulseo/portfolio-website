@@ -282,6 +282,11 @@ footer svg {
   max-width: 950px;
 }
 
+#about .portrait {
+  width: 20%;
+  border-radius: 20px;
+}
+
 #about h1 {
   font-weight:700;
   font-size: 40px;
@@ -299,7 +304,7 @@ footer svg {
 }
 
 #about .button {
-  margin-top: 15px;
+  margin: 15px 0 40px 0;
 }
 
 /* Medium devices (tablets, less than 992px) */
