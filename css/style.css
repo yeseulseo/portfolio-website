@@ -168,6 +168,7 @@ nav a:active {
 #hero h1 {
   font-weight:700;
   font-size: 34px;
+  line-height: 1.5;
 }
 
 #hero p {
@@ -197,10 +198,6 @@ nav a:active {
   padding: 30px 0 30px 0;
 }
 
-#works a:hover {
-  color: #AFEEEE;
-}
-
 #works h2 {
   text-align: center;
   margin-bottom: 40px;
@@ -211,6 +208,10 @@ nav a:active {
   text-align: center;
   color: #040442;
   margin-top: 5px;
+}
+
+#works h3:hover {
+  color: #AFEEEE;
 }
 
 /* Footer */
