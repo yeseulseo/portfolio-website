@@ -21,14 +21,12 @@ body {
 h1 {
   font-size: 32px;
   font-weight:700;
-  text-align:center;
   color: #040442;
 }
 
 h2 {
   font-size: 31px;
   font-weight:700;
-  text-align:center;
   color: #040442;
 }
 
@@ -82,9 +80,25 @@ img {
   width: 80%;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 25%;
+}
+
 .wrapper {
   width: 100%;
   max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.wrapper1 {
+  width: 100%;
+  max-width: 950px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -167,11 +181,13 @@ nav a:active {
 #hero h1 {
   font-weight:700;
   font-size: 34px;
+  text-align: center;
   line-height: 1.5;
 }
 
 #hero p {
   font-size: 24px;
+  text-align: center;
 }
 
 #hero .button1 {
@@ -255,11 +271,13 @@ footer h2, footer p {
 
 footer h2 {
   font-weight:700;
+  text-align: center;
   margin-bottom: 10px;
 }
 
 footer p {
   margin: 5px 0;
+  text-align: center;
   font-size: 22px;
 }
 
@@ -294,6 +312,7 @@ footer svg:hover {
 .small-text {
   font-size: 12px;
   margin-top: 30px;
+  text-align: center;
 }
 
 /* About */
@@ -309,12 +328,13 @@ footer svg:hover {
   width: 20%;
   border-radius: 30%;
   display: block;
-  margin: 40px auto 20px auto;
+  margin: 45px auto 30px auto;
 }
 
 #about h1 {
   font-weight:700;
   font-size: 40px;
+  text-align: center;
 }
 
 #about h2 {
@@ -324,12 +344,19 @@ footer svg:hover {
   margin-top: 40px;
 }
 
-#about span {
-  display: block;
+#about .button {
+  margin: 15px 0 90px 0;
 }
 
-#about .button {
-  margin: 15px 0 40px 0;
+#about ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* FitJet case study */
+.wrapper1 h1 {
+  text-align: center;
+  margin-bottom: 60px;
 }
 
 /* Medium devices (tablets, less than 992px) */
