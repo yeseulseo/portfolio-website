@@ -71,7 +71,6 @@ a:active {
 .button:focus {
   background-color: #FFFFFF;
   color: #040442;
-  opacity: 0.8;
 }
 
 /* Layout styling */
