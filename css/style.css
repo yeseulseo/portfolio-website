@@ -215,6 +215,10 @@ nav a:active {
   margin-top: 5px;
 }
 
+#works h3:hover {
+  color: #AFEEEE;
+}
+
 /* Footer */
 footer {
   background-color: #040442;
