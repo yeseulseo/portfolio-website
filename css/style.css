@@ -201,10 +201,6 @@ nav a:active {
   font-size: 36px;
 }
 
-#works image {
-  width: 80%;
-}
-
 /* Footer */
 footer {
   background-color: #040442;;
@@ -221,6 +217,7 @@ footer p {
 }
 
 footer .button {
+  border-color: #FFFFFF;
   margin-top: 30px;
 }
 
@@ -280,11 +277,11 @@ footer svg {
 
 /* Responsive styling
 @media all and (max-width: 500px) {
-  .logo {
-    height: 50px;
-  }
-  h1 {
-    font-size: 24px;
-    text-align: left;
-  }
+.logo {
+height: 50px;
+}
+h1 {
+font-size: 24px;
+text-align: left;
+}
 }
