@@ -298,6 +298,10 @@ footer svg {
   display: block;
 }
 
+#about .button {
+  margin-top: 15px;
+}
+
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 991px) {
   .md6 {
