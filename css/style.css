@@ -354,10 +354,6 @@ footer svg:hover {
 }
 
 /* FitJet case study */
-.wrapper1 h1 {
-  text-align: center;
-  margin-bottom: 60px;
-}
 
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 991px) {
