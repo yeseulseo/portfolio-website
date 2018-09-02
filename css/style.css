@@ -62,7 +62,7 @@ a:active {
   text-decoration: none;
   text-transform: uppercase;
   padding: 10px 33px 12px 33px;
-  margin: 10px 15px 0 15px;
+  margin-top: 10px;
   transition-duration: 0.5s;
 }
 
@@ -186,6 +186,10 @@ nav a:active {
 #hero p {
   font-size: 24px;
   text-align: center;
+}
+
+#hero .button {
+  margin: 10px 15px;
 }
 
 #hero .button1 {
