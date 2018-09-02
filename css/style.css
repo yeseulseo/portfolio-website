@@ -371,9 +371,10 @@ footer svg:hover {
     header {
       text-align: center;
       border-bottom: 1px solid #FFFFFF;
-      padding-bottom: 8px
+      padding-bottom: 8px;
     }
     header nav {
+      display: table;
       float: none;
     }
     header li {
