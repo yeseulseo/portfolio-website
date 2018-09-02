@@ -78,7 +78,7 @@ a:active {
 }
 
 img {
-  width: 80%;
+  width: 100%;
 }
 
 .center {
@@ -131,7 +131,7 @@ header {
 nav {
   display: inline-block;
   float: right;
-  margin-top: 8px;
+  margin-top: 22px;
 }
 
 nav ul {
@@ -232,6 +232,10 @@ nav a:active {
 #works a:hover {
   transition-duration: 0.5s;
   opacity: 0.4;
+}
+
+#works img {
+  max-width: 80%
 }
 
 #works h2 {
