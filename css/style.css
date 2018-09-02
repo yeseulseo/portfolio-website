@@ -357,7 +357,7 @@ footer svg:hover {
   }
 }
 
-/* Small devices (landscape phones, less than 768px)
+/* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767px) {
 
 }
@@ -366,30 +366,18 @@ footer svg:hover {
 @media (max-width: 575px) {
   .xs12 {
     width: 100%;
-    header {
-      text-align: center;
-      border-bottom: 1px solid #FFFFFF;
-      padding-bottom: 8px;
-    }
-    header nav {
-      display: table;
-      float: none;
-    }
-    header li {
-      margin-left: 20px;
-      margin-right: 20px;
-    }
   }
-}
-
-
-/* Responsive styling
-@media all and (max-width: 500px) {
-.logo {
-height: 50px;
-}
-h1 {
-font-size: 24px;
-text-align: left;
-}
+  header {
+    text-align: center;
+    border-bottom: 1px solid #FFFFFF;
+    padding-bottom: 8px;
+  }
+  header nav {
+    display: table;
+    float: none;
+  }
+  header li {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
