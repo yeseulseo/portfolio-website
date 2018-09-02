@@ -380,6 +380,7 @@ footer svg:hover {
   header nav {
     display: table;
     float: none;
+    margin: 0px auto 30px auto;
   }
   header li {
     margin-left: 20px;
@@ -396,5 +397,8 @@ footer svg:hover {
   }
   body {
     font-size: 16px;
+  }
+  a {
+    font-size: 19px;
   }
 }
