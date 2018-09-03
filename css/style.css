@@ -353,8 +353,6 @@ footer svg:hover {
   padding: 0;
 }
 
-/* FitJet case study */
-
 /* Medium devices (tablets, less than 992px) */
 @media all and (max-width: 991px) {
   .md6 {
