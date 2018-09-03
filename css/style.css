@@ -377,9 +377,13 @@ footer svg:hover {
 }
 
 /* Projects */
-#title h1 {
+#projects h1 {
   margin: 40px 0 30px 0;
   font-size: 38px;
+}
+
+#projects h2 {
+  margin-top: 45px;
 }
 
 /* Medium devices (tablets, less than 992px) */
