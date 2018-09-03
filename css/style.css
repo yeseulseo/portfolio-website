@@ -357,6 +357,24 @@ footer svg:hover {
   padding: 0;
 }
 
+@keyframes color-change {
+  from {fill: #F0BC5E;}
+  to {fill: #C71585;}
+}
+
+.path {
+  animation: 4s color-change infinite alternate ease-in;
+}
+
+@keyframes rect-move {
+  from {transform: rorate(0deg);}
+  to {transform: rotate(20deg);}
+}
+
+.rect {
+  animation: 10s rect-move infinite alternate linear;
+}
+
 /* Medium devices (tablets, less than 992px) */
 @media all and (max-width: 991px) {
   .md6 {
