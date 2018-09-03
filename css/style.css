@@ -259,6 +259,8 @@ nav a:active {
 
 #works h3:hover {
   color: #AFEEEE;
+  transition-duration: 0.5s;
+  opacity: 0.7;
 }
 
 /* Footer */
