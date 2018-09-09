@@ -1,10 +1,8 @@
-console.log ("Welcome to My Portfolio Site! Enjoy!")
-
-$(".overlay-container").mouseover(function()
-     {
-        $(".overlay").show();
-     });
-$(".overlay-container").mouseout(function()
-     {
-       $(".overlay").hide();
-     });
+$(document).ready(function() {
+  $(".overlay-container").on("mouseenter", function() {
+    $(this).find(".overlay-description").fadeIn();
+    });
+  $(".overlay-container").on("mouseleave", function() {
+    $(this).find(".overlay-description").fadeOut();
+    });
+});
