@@ -266,18 +266,15 @@ nav a:active {
   height: 100%;
   margin: 0; / Reset this to 0 /
   padding: 10px;
-  background: rgba(0, 0, 0, 0.82);
+  background: rgba(244, 252, 255, 0.92);
 }
 
 #works .overlay-description p {
   margin: 150px 0 10px;
   font-size: 22px;
-  color: #FFFFFF;
 }
 
 #works .overlay-description .button {
-  background-color: #ffffff;
-  color: #000000;
   padding: 10px 30px;
   width: auto;
 }
