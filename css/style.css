@@ -272,6 +272,7 @@ nav a:active {
 #works .overlay-description p {
   margin: 150px 0 10px;
   font-size: 22px;
+  font-weight: 700;
 }
 
 #works .overlay-description .button {
