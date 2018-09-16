@@ -472,6 +472,9 @@ footer svg:hover {
   #hero p {
     font-size: 24px;
   }
+  #about .wrapper {
+    max-width: 400px;
+  }
   body {
     font-size: 16px;
   }
