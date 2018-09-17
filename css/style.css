@@ -136,6 +136,7 @@ nav {
   display: inline-block;
   float: right;
   margin-top: 22px;
+  font-weight: 700;
 }
 
 nav ul {
@@ -486,8 +487,7 @@ textarea {
 }
 
 /* Small devices (landscape phones, less than 768px) */
-@media (max-width: 767px) {
-
+@media (max-width: 76px) {
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
@@ -512,8 +512,12 @@ textarea {
     margin-left: 20px;
     margin-right: 20px;
   }
+  #hero .wrapper {
+    width: 95%;
+  }
   #hero h1 {
     font-size: 30px;
+    margin-top: 50px;
   }
   #hero h2 {
     font-size: 28px;
@@ -529,5 +533,11 @@ textarea {
   }
   a {
     font-size: 19px;
+  }
+  .form-control {
+    width: 300px;
+  }
+  #contact .wrapper {
+    width: 95%;
   }
 }
