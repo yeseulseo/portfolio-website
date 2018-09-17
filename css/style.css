@@ -367,7 +367,26 @@ footer svg:hover {
 }
 
 #about .contact-button {
-  margin: 15px 0 90px 0;
+  margin: 30px 15px 90px 200px;
+}
+
+#about .button1 {
+  display: inline-block;
+  border: 2px solid #040442;
+  background-color: #FFFFFF;
+  color: #040442;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 36px 12px 36px;
+  margin-left: 5px;
+  transition-duration: 0.8s;
+}
+
+#about .button1:hover,
+.button1:focus {
+  background-color: #040442;
+  color: #FFFFFF;
 }
 
 #about ul {
