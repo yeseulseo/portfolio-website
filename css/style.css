@@ -217,7 +217,7 @@ nav a:active {
 
 #hero .button {
   margin: 10px 15px;
-  padding: 10px 40px 12px 40px;  
+  padding: 10px 40px 12px 40px;
 }
 
 #hero .button1 {
@@ -302,6 +302,63 @@ nav a:active {
 #works .overlay-description .button {
   padding: 10px 30px;
   width: auto;
+}
+
+/* FitJet */
+.main-image {
+  display: block;
+  margin: 40px auto 20px auto;
+  width: 70%;
+}
+
+#main-description .wrapper {
+  max-width: 800px;
+}
+
+#main-description h2 {
+  color: #B22222;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 100px;
+}
+
+#main-button .button2 {
+  display: inline-block;
+  border: 2px solid #B22222;
+  background-color: #B22222;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 700;
+  padding: 12px 18px 14px 18px;
+  transition-duration: 0.5s;
+  margin: 20px 15px 10px 120px;
+}
+
+#main-button .button2:hover,
+.button2:focus {
+  background-color: #FFFFFF;
+  color: #B22222;
+}
+
+#main-button .button3 {
+  display: inline-block;
+  border: 2px solid #B22222;
+  background-color: #FFFFFF;
+  color: #B22222;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 700;
+  padding: 12px 15px 14px 15px;
+  transition-duration: 0.5s;
+}
+
+#main-button .button3:hover,
+.button3:focus {
+  background-color: #B22222;
+  color: #FFFFFF;
 }
 
 
