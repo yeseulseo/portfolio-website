@@ -341,43 +341,69 @@ nav a:active {
 }
 
 
+/*VELA*/
+#main-description2 .wrapper {
+  max-width: 800px;
+}
 
-#main-button .button2 {
+#main-description2 .wrapper2 {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#main-description2 .wrapper3 {
+  margin-bottom: 0;
+}
+
+#main-description2 h2 {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 100px;
+}
+
+#main-description2 .product-description {
+  margin-top: 20px;
+}
+
+#main-description2 .product-description2 {
+  margin: 20px 0 20px 0;
+}
+
+
+#main-button2 .button2 {
   display: inline-block;
-  border: 2px solid #B22222;
-  background-color: #B22222;
+  border: 2px solid #040442;
+  background-color: #040442;
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
-  text-transform: capitalize;
-  font-weight: 700;
+  text-transform: uppercase;
   padding: 12px 22px 14px 22px;
   transition-duration: 0.5s;
-  margin: 0 15px 110px 120px;
+  margin: 0 15px 110px 80px;
 }
 
-#main-button .button2:hover,
+#main-button2 .button2:hover,
 .button2:focus {
   background-color: #FFFFFF;
-  color: #B22222;
+  color: #040442;
 }
 
-#main-button .button3 {
+#main-button2 .button3 {
   display: inline-block;
-  border: 2px solid #B22222;
+  border: 2px solid #040442;
   background-color: #FFFFFF;
-  color: #B22222;
+  color: #040442;
   text-align: center;
   text-decoration: none;
-  text-transform: capitalize;
-  font-weight: 700;
-  padding: 12px 20px 14px 20px;
+  text-transform: uppercase;
+  padding: 12px 22px 14px 22px;
   transition-duration: 0.5s;
 }
 
-#main-button .button3:hover,
+#main-button2 .button3:hover,
 .button3:focus {
-  background-color: #B22222;
+  background-color: #040442;
   color: #FFFFFF;
 }
 
