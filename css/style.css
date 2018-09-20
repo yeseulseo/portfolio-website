@@ -317,7 +317,7 @@ nav a:active {
 }
 
 #main-description .wrapper2 {
-  max-width: 900px;
+  max-width: 920px;
   margin: 0 auto;
 }
 
@@ -340,14 +340,51 @@ nav a:active {
   margin: 20px 0 20px 0;
 }
 
+#main-button .button2 {
+  display: inline-block;
+  border: 2px solid #B22222;
+  background-color: #B22222;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 12px 22px 14px 22px;
+  transition-duration: 0.5s;
+  margin: 0 15px 110px 80px;
+}
+
+#main-button .button2:hover,
+.button2:focus {
+  background-color: #FFFFFF;
+  color: #B22222;
+}
+
+#main-button .button3 {
+  display: inline-block;
+  border: 2px solid #B22222;
+  background-color: #FFFFFF;
+  color: #B22222;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 12px 22px 14px 22px;
+  transition-duration: 0.5s;
+}
+
+#main-button .button3:hover,
+.button3:focus {
+  background-color: #B22222;
+  color: #FFFFFF;
+}
+
 
 /*VELA*/
 #main-description2 .wrapper {
-  max-width: 800px;
+  max-width: 850px;
 }
 
 #main-description2 .wrapper2 {
-  max-width: 900px;
+  max-width: 920px;
   margin: 0 auto;
 }
 
@@ -357,6 +394,7 @@ nav a:active {
 
 #main-description2 h2 {
   text-align: center;
+  color: #071C45;
   font-weight: 700;
   margin-top: 100px;
 }
@@ -372,28 +410,28 @@ nav a:active {
 
 #main-button2 .button2 {
   display: inline-block;
-  border: 2px solid #040442;
-  background-color: #040442;
+  border: 2px solid #071C45;
+  background-color: #071C45;
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
   padding: 12px 22px 14px 22px;
   transition-duration: 0.5s;
-  margin: 0 15px 110px 80px;
+  margin: 0 15px 110px 120px;
 }
 
 #main-button2 .button2:hover,
 .button2:focus {
   background-color: #FFFFFF;
-  color: #040442;
+  color: #071C45;
 }
 
 #main-button2 .button3 {
   display: inline-block;
-  border: 2px solid #040442;
+  border: 2px solid #071C45;
   background-color: #FFFFFF;
-  color: #040442;
+  color: #071C45;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
@@ -403,7 +441,7 @@ nav a:active {
 
 #main-button2 .button3:hover,
 .button3:focus {
-  background-color: #040442;
+  background-color: #071C45;
   color: #FFFFFF;
 }
 
