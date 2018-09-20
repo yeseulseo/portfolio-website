@@ -350,7 +350,7 @@ nav a:active {
   text-transform: uppercase;
   padding: 12px 22px 14px 22px;
   transition-duration: 0.5s;
-  margin: 0 15px 110px 80px;
+  margin: 0 15px 110px 75px;
 }
 
 #main-button .button2:hover,
@@ -418,7 +418,7 @@ nav a:active {
   text-transform: uppercase;
   padding: 12px 22px 14px 22px;
   transition-duration: 0.5s;
-  margin: 0 15px 110px 120px;
+  margin: 0 15px 110px 112px;
 }
 
 #main-button2 .button2:hover,
