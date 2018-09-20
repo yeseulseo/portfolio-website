@@ -312,35 +312,35 @@ nav a:active {
   width: 70%;
 }
 
-#main-description .wrapper {
+#design-page-description .wrapper {
   max-width: 800px;
 }
 
-#main-description .wrapper2 {
+#design-page-description .wrapper2 {
   max-width: 930px;
   margin: 0 auto;
 }
 
-#main-description .wrapper3 {
+#design-page-description .wrapper3 {
   margin-bottom: 0;
 }
 
-#main-description h2 {
+#design-page-description h2 {
   color: #B22222;
   text-align: center;
   font-weight: 700;
   margin-top: 100px;
 }
 
-#main-description .product-description {
+#design-page-description .product-description {
   margin-top: 20px;
 }
 
-#main-description .product-description2 {
+#design-page-description .product-description2 {
   margin: 20px 0 20px 0;
 }
 
-#main-button .button2 {
+#design-page-button .button2 {
   display: inline-block;
   border: 2px solid #B22222;
   background-color: #B22222;
@@ -353,13 +353,13 @@ nav a:active {
   margin: 0 15px 110px 75px;
 }
 
-#main-button .button2:hover,
+#design-page-button .button2:hover,
 .button2:focus {
   background-color: #FFFFFF;
   color: #B22222;
 }
 
-#main-button .button3 {
+#design-page-button .button3 {
   display: inline-block;
   border: 2px solid #B22222;
   background-color: #FFFFFF;
@@ -371,7 +371,7 @@ nav a:active {
   transition-duration: 0.5s;
 }
 
-#main-button .button3:hover,
+#design-page-button .button3:hover,
 .button3:focus {
   background-color: #B22222;
   color: #FFFFFF;
@@ -379,36 +379,36 @@ nav a:active {
 
 
 /*VELA*/
-#main-description2 .wrapper {
+#design-page-description2 .wrapper {
   max-width: 850px;
 }
 
-#main-description2 .wrapper2 {
+#design-page-description2 .wrapper2 {
   max-width: 930px;
   margin: 0 auto;
 }
 
-#main-description2 .wrapper3 {
+#design-page-description2 .wrapper3 {
   margin-bottom: 0;
 }
 
-#main-description2 h2 {
+#design-page-description2 h2 {
   text-align: center;
   color: #071C45;
   font-weight: 700;
   margin-top: 100px;
 }
 
-#main-description2 .product-description {
+#design-page-description2 .product-description {
   margin-top: 20px;
 }
 
-#main-description2 .product-description2 {
+#design-page-description2 .product-description2 {
   margin: 20px 0 20px 0;
 }
 
 
-#main-button2 .button2 {
+#design-page-button2 .button2 {
   display: inline-block;
   border: 2px solid #071C45;
   background-color: #071C45;
@@ -421,13 +421,13 @@ nav a:active {
   margin: 0 15px 110px 112px;
 }
 
-#main-button2 .button2:hover,
+#design-page-button2 .button2:hover,
 .button2:focus {
   background-color: #FFFFFF;
   color: #071C45;
 }
 
-#main-button2 .button3 {
+#design-page-button2 .button3 {
   display: inline-block;
   border: 2px solid #071C45;
   background-color: #FFFFFF;
@@ -439,7 +439,7 @@ nav a:active {
   transition-duration: 0.5s;
 }
 
-#main-button2 .button3:hover,
+#design-page-button2 .button3:hover,
 .button3:focus {
   background-color: #071C45;
   color: #FFFFFF;
