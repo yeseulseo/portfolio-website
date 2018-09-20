@@ -477,14 +477,14 @@ footer p {
 
 footer .button {
   border-color: #FFFFFF;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .social {
   padding: 0;
   list-style-type: none;
   display: inline-block;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 0;
 }
 
@@ -505,56 +505,10 @@ footer svg:hover {
 
 .small-text {
   font-size: 12px;
-  margin-top: 90px;
+  margin-top: 60px;
   text-align: center;
 }
 
-form {
-  margin-top: 40px;
-  transition: all 4s ease-in-out;
-}
-
-.form-control {
-  width: 640px;
-  background: transparent;
-  border: none;
-  outline: none;
-  border-bottom: 1px solid #FFFFFF;
-  color: #FFFFFF;
-  font-size: 18px;
-  margin-bottom: 16px;
-}
-
-form .submit {
-  background-color: #FFFFFF;
-  border: 2px solid #FFFFFF;
-  color: #040442;
-  font-size: 20px;
-  font-weight: 400;
-  height: 50px;
-  margin-top: 5px;
-}
-
-form .submit:hover {
-  background-color: #040442;
-  color: #FFFFFF;
-  transition-duration: 0.8s;
-  opacity: 0.9;
-  cursor: pointer;
-}
-
-::placeholder {
-  color: #FFFFFF;
-  opacity: 0.6;
-}
-
-input {
-  height: 45px;
-}
-
-textarea {
-  margin-top: 10px;
-}
 
 /* About */
 #about {
