@@ -198,7 +198,7 @@ nav a:active {
   max-width: 950px;
 }
 
-#hero h1, #hero p {
+#hero h1 p {
   color: #fff;
 }
 
@@ -453,7 +453,7 @@ footer .wrapper {
   max-width: 950px;
 }
 
-footer h2, footer p {
+footer h2 p {
   color: #fff;
 }
 
@@ -659,7 +659,7 @@ footer svg:hover {
     width: 85%;
   }
 
-/* FitJet's Design Page */
+  /* FitJet's Design Page */
   #design-page-description .wrapper {
     width: 90%;
   }
@@ -672,7 +672,7 @@ footer svg:hover {
     margin: 0 15px 90px 30px;
   }
 
-/* VELA's Design Page */
+  /* VELA's Design Page */
   #design-page-description2 .wrapper {
     width: 90%;
   }
@@ -793,7 +793,7 @@ footer svg:hover {
     margin-top: 30px;
   }
 
-/* FitJet's Design Page*/
+  /* FitJet's Design Page */
   #design-page-description h2 {
     font-size: 22px;
     margin-top: 60px;
@@ -818,7 +818,7 @@ footer svg:hover {
     font-size: 16px;
   }
 
-/* VELA's Design Page */
+  /* VELA's Design Page */
   #design-page-description2 h2 {
     font-size: 22px;
     margin-top: 60px;
