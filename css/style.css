@@ -622,31 +622,40 @@ footer svg:hover {
   .md6 {
     width: 50%;
   }
+
   header .logo {
     margin-left: 10px;
   }
+
   header ul {
     margin-right: 20px;
   }
+
   #hero .wrapper {
     width: 89%;
   }
+
   #hero h1 {
     font-size: 32px;
     margin-top: 50px;
   }
+
   #hero h2 {
     font-size: 29px;
   }
+
   #hero p {
     font-size: 24px;
   }
+
   #about .wrapper {
     max-width: 700px;
   }
+
   #about h2 {
     font-size: 28px;
   }
+
   #about .contact-button {
     margin-left: 120px;
     margin-bottom: 50px;
@@ -662,73 +671,102 @@ footer svg:hover {
   .xs12 {
     width: 100%;
   }
+
   .wrapper {
     padding: 0 10px;
   }
+
   header {
     text-align: center;
     border-bottom: 1px solid #FFFFFF;
     padding-bottom: 8px;
   }
+
   header nav {
     display: table;
     float: none;
     margin: 0px auto 30px auto;
   }
+
   header ul {
     margin-left: auto;
     margin-right: auto;
   }
+
   header li {
     margin-left: 16px;
     margin-right: 15px;
   }
-  #hero .wrapper {
-    width: 95%;
+
+  #mybtn {
+    font-size: 14px;
   }
+
+  #hero .wrapper {
+    width: 90%;
+  }
+
   #hero h1 {
-    font-size: 30px;
+    font-size: 26px;
     margin-top: 50px;
   }
+
   #hero h2 {
     font-size: 28px;
   }
+
   #hero p {
-    font-size: 24px;
+    font-size: 20px;
+    margin-bottom: 40px
   }
+
   #about .wrapper {
     max-width: 330px;
   }
+
   #about h2 {
     font-size: 22px;
     margin-top: 25px;
   }
+
   #about .contact-button {
     margin: 20px 0 5px 70px;
     font-size: 16px;
   }
+
   #about .button1 {
     padding: 10px 38px 12px 38px;
     margin-left: 70px;
     margin-bottom: 50px;
     font-size: 16px;
   }
+
+  #works h2 {
+    margin: 10px auto 20px auto;
+    font-size: 34px;
+  }
+
   body {
     font-size: 17px;
   }
+
   a {
     font-size: 19px;
   }
+
   .form-control {
     width: 300px;
   }
+
   #contact .wrapper {
     width: 90%;
   }
+
   #contact h2 {
     font-size: 24px;
     margin: 10px auto 15px auto;
   }
+  
   #contact p {
     font-size: 17px;
   }
