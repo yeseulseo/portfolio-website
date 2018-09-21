@@ -699,7 +699,7 @@ footer svg:hover {
   }
 
   #mybtn {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   #hero .wrapper {
@@ -721,7 +721,7 @@ footer svg:hover {
   }
 
   #about .wrapper {
-    max-width: 330px;
+    max-width: 95%;
   }
 
   #about h2 {
@@ -743,7 +743,24 @@ footer svg:hover {
 
   #works h2 {
     margin: 10px auto 20px auto;
-    font-size: 34px;
+    font-size: 32px;
+  }
+
+  #works .overlay-description p {
+    margin-top: 130px;
+  }
+
+  #projects .wrapper {
+    width: 95%;
+  }
+
+  #projects h1 {
+    font-size: 23px;
+    margin: 30px 0 10px 0;
+  }
+
+  #projects h2 {
+    font-size: 22px;
   }
 
   body {
@@ -766,7 +783,7 @@ footer svg:hover {
     font-size: 24px;
     margin: 10px auto 15px auto;
   }
-  
+
   #contact p {
     font-size: 17px;
   }
