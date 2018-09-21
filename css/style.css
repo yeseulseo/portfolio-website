@@ -666,7 +666,7 @@ footer svg:hover {
   }
 
   .main-image {
-    width: 80%;
+    width: 85%;
   }
 
 /*FitJet's Design Page*/
@@ -818,6 +818,7 @@ footer svg:hover {
 
   #design-page-description2 .wrapper {
     margin-bottom: 20px;
+    width: 100%;
   }
 
   #design-page-description2 .wrapper3 h2 {
