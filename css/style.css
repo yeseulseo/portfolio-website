@@ -664,6 +664,23 @@ footer svg:hover {
     margin-left: 120px;
     margin-bottom: 50px;
   }
+
+  .main-image {
+    width: 80%;
+  }
+
+  #design-page-description2 .wrapper2 {
+    width: 90%;
+  }
+
+  #design-page-description2 .wrapper {
+    width: 90%;
+  }
+
+  #design-page-button2 .button2 {
+    margin: 0 15px 90px 40px;
+  }
+
 }
 
 /* Small devices (landscape phones, less than 768px) */
@@ -765,6 +782,16 @@ footer svg:hover {
 
   #projects h2 {
     font-size: 22px;
+  }
+
+  .center {
+    width: 45%;
+    margin-top: 40px;
+  }
+
+  .main-image {
+    width: 90%;
+    margin-top: 30px;
   }
 
   #design-page-description2 h2 {
