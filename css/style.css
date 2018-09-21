@@ -648,6 +648,10 @@ footer svg:hover {
     font-size: 24px;
   }
 
+  #hero .button {
+    margin-top: 25px;
+  }
+
   #works .overlay-description p {
     margin-top: 140px;
   }
