@@ -143,7 +143,6 @@ img {
 }
 
 
-
 /* Header */
 header {
   background-color: #040442;
@@ -380,6 +379,25 @@ nav a:active {
 
 
 /*VELA*/
+.design-overview {
+  width: 1200px;
+}
+
+.col-6 {
+  width: 50%;
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 180px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.col-6 h1 {
+  font-family: 'Days One', sans-serif;
+  font-size: 50px;
+  text-align: left;
+}
+
 #design-page-description2 .wrapper {
   max-width: 850px;
 }
@@ -597,4 +615,96 @@ footer svg:hover {
 
 #projects .downsize1 {
   max-width: 40%;
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media all and (max-width: 991px) {
+  .md6 {
+    width: 50%;
+  }
+  #top .logo {
+    margin-left: 10px;
+  }
+  #top ul {
+    margin-right: 20px;
+  }
+  #hero .wrapper {
+    width: 89%;
+  }
+  #hero h1 {
+    font-size: 32px;
+    margin-top: 50px;
+  }
+  #hero h2 {
+    font-size: 29px;
+  }
+  #hero p {
+    font-size: 24px;
+  }
+  #about .wrapper {
+    max-width: 700px;
+  }
+  #about h2 {
+    font-size: 28px;
+  }
+  #about .contact-button {
+    margin-left: 120px;
+    margin-bottom: 50px;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 76px) {
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+  .xs12 {
+    width: 100%;
+  }
+  .wrapper {
+    padding: 0 10px;
+  }
+  header {
+    text-align: center;
+    border-bottom: 1px solid #FFFFFF;
+    padding-bottom: 8px;
+  }
+  header nav {
+    display: table;
+    float: none;
+    margin: 0px auto 30px auto;
+  }
+  header li {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  #hero .wrapper {
+    width: 95%;
+  }
+  #hero h1 {
+    font-size: 30px;
+    margin-top: 50px;
+  }
+  #hero h2 {
+    font-size: 28px;
+  }
+  #hero p {
+    font-size: 24px;
+  }
+  #about .wrapper {
+    max-width: 400px;
+  }
+  body {
+    font-size: 16px;
+  }
+  a {
+    font-size: 19px;
+  }
+  .form-control {
+    width: 300px;
+  }
+  #contact .wrapper {
+    width: 95%;
+  }
 }
