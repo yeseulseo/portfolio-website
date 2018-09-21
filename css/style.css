@@ -669,11 +669,23 @@ footer svg:hover {
     width: 80%;
   }
 
-  #design-page-description2 .wrapper2 {
+  #design-page-description .wrapper {
     width: 90%;
   }
 
+  #design-page-description .wrapper2 {
+    width: 90%;
+  }
+
+  #design-page-button .button2 {
+    margin: 0 15px 90px 30px;
+  }
+
   #design-page-description2 .wrapper {
+    width: 90%;
+  }
+
+  #design-page-description2 .wrapper2 {
     width: 90%;
   }
 
@@ -808,12 +820,12 @@ footer svg:hover {
   }
 
   #design-page-button2 .button2 {
-    margin: 0 15px 15px 40px;
+    margin: 5px 15px 15px 24px;
     font-size: 16px;
   }
 
   #design-page-button2 .button3 {
-    margin-left: 40px;
+    margin-left: 24px;
     margin-bottom: 40px;
     font-size: 16px;
   }
