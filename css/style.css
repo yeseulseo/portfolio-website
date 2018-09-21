@@ -13,21 +13,21 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 19px;
   font-weight: 400;
-  color: #000000;
+  color: #000;
   line-height: 1.6;
   margin: 0;
 }
 
 h1 {
   font-size: 32px;
-  font-weight:700;
+  font-weight: 700;
   color: #040442;
   text-align: center;
 }
 
 h2 {
   font-size: 31px;
-  font-weight:700;
+  font-weight: 700;
   color: #040442;
 }
 
@@ -37,16 +37,16 @@ h3 {
 }
 
 a {
-  color: #FFFFFF;
+  color: #fff;
   text-decoration: none;
 }
 
 a:visited {
-  color: #FFFFFF;
+  color: #fff;
 }
 
 a:hover {
-  color: #AFEEEE;
+  color: #afeeee;
   transition-duration: 0.8s;
   opacity: 0.9;
 }
@@ -60,42 +60,41 @@ a:active {
   display: inline-block;
   border: 2px solid #040442;
   background-color: #040442;
-  color: #FFFFFF;
+  color: #fff;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 10px 33px 12px 33px;
+  padding: 10px 33px 12px;
   margin-top: 10px;
 }
 
 .button:hover,
 .button:focus {
-  background-color: #FFFFFF;
+  background-color: #fff;
   color: #040442;
   transition-duration: 0.8s;
   opacity: 0.9;
 }
 
 #myBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    border: none;
-    outline: none;
-    background-color: #FFFFFF;
-    border: 1px solid #040442;
-    color: #040442;
-    cursor: pointer;
-    padding: 13px;
-    border-radius: 5px;
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  outline: none;
+  background-color: #fff;
+  border: 1px solid #040442;
+  color: #040442;
+  cursor: pointer;
+  padding: 13px;
+  border-radius: 5px;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
 }
 
 #myBtn:hover {
-    opacity: 0.4;
+  opacity: 0.4;
 }
 
 /* Layout styling */
@@ -109,7 +108,7 @@ img {
 
 .center {
   display: block;
-  margin: 50px auto 20px auto;
+  margin: 50px auto 20px;
   width: 25%;
 }
 
@@ -123,7 +122,7 @@ img {
 .project-page main .wrapper {
   width: 100%;
   max-width: 950px;
-  margin: 0 auto 100px auto;
+  margin: 0 auto 100px;
   padding: 0 20px;
 }
 
@@ -142,7 +141,6 @@ img {
   text-align: center;
 }
 
-
 /* Header */
 header {
   background-color: #040442;
@@ -152,7 +150,7 @@ header {
 .logo {
   display: inline-block;
   width: 90px;
-  margin: 8px 0 10px 0;
+  margin: 8px 0 10px;
 }
 
 nav {
@@ -174,25 +172,25 @@ nav li {
 
 nav a {
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 nav a:visited {
-  color: #FFFFFF;
+  color: #fff;
 }
 
 nav a:hover {
-  color: #AFEEEE;
+  color: #afeeee;
 }
 
 nav a:active {
-  color: #AFEEEE;
+  color: #afeeee;
 }
 
 /* Hero */
 #hero {
   background-color: #040442;
-  padding: 3px 0 100px 0;
+  padding: 3px 0 100px;
 }
 
 #hero .wrapper {
@@ -201,11 +199,11 @@ nav a:active {
 }
 
 #hero h1, #hero p {
-  color: #FFFFFF;
+  color: #fff;
 }
 
 #hero h1 {
-  font-weight:700;
+  font-weight: 700;
   font-size: 34px;
   text-align: center;
   line-height: 1.5;
@@ -218,25 +216,25 @@ nav a:active {
 
 #hero .button {
   margin: 10px 15px;
-  padding: 10px 40px 12px 40px;
+  padding: 10px 40px 12px;
 }
 
 #hero .button1 {
   display: inline-block;
-  border: 2px solid #FFFFFF;
-  background-color: #FFFFFF;
+  border: 2px solid #fff;
+  background-color: #fff;
   color: #040442;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 10px 15px 12px 15px;
+  padding: 10px 15px 12px;
   transition-duration: 0.5s;
 }
 
 #hero .button1:hover,
 .button1:focus {
   background-color: #040442;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 #hero span {
@@ -244,22 +242,22 @@ nav a:active {
 }
 
 #hero .button {
-  border-color: #FFFFFF;
+  border-color: #fff;
   margin-top: 10px;
 }
 
 /* Works */
 #works {
-  padding: 30px 0 100px 0;
+  padding: 30px 0 100px;
 }
 
 #works a {
-  display:inline-block;
+  display: inline-block;
   width: 100%;
-  -webkit-box-shadow: 0px 0px 2px 2px rgba(0,0,0,0.08);
-  -moz-box-shadow: 0px 0px 2px 2px rgba(0,0,0,0.08);
-  box-shadow: 0px 0px 2px 2px rgba(0,0,0,0.08);
-  padding: 30px 0 30px 0;
+  -webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.08);
+  padding: 30px 0;
 }
 
 #works img {
@@ -289,7 +287,7 @@ nav a:active {
   left: 0;
   width: 100%;
   height: 100%;
-  margin: 0; / Reset this to 0 /
+  margin: 0;
   padding: 10px;
   background: rgba(244, 252, 255, 0.92);
 }
@@ -308,7 +306,7 @@ nav a:active {
 /* FitJet */
 .main-image {
   display: block;
-  margin: 40px auto 20px auto;
+  margin: 40px auto 20px;
   width: 70%;
 }
 
@@ -326,7 +324,7 @@ nav a:active {
 }
 
 #design-page-description h2 {
-  color: #B22222;
+  color: #b22222;
   text-align: center;
   font-weight: 700;
   margin-top: 100px;
@@ -337,67 +335,47 @@ nav a:active {
 }
 
 #design-page-description .product-description2 {
-  margin: 20px 0 20px 0;
+  margin: 20px 0;
 }
 
 #design-page-button .button2 {
   display: inline-block;
-  border: 2px solid #B22222;
-  background-color: #B22222;
-  color: #FFFFFF;
+  border: 2px solid #b22222;
+  background-color: #b22222;
+  color: #fff;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 12px 22px 14px 22px;
+  padding: 12px 22px 14px;
   transition-duration: 0.5s;
   margin: 0 15px 110px 75px;
 }
 
 #design-page-button .button2:hover,
 .button2:focus {
-  background-color: #FFFFFF;
-  color: #B22222;
+  background-color: #fff;
+  color: #b22222;
 }
 
 #design-page-button .button3 {
   display: inline-block;
-  border: 2px solid #B22222;
-  background-color: #FFFFFF;
-  color: #B22222;
+  border: 2px solid #b22222;
+  background-color: #fff;
+  color: #b22222;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 12px 22px 14px 22px;
+  padding: 12px 22px 14px;
   transition-duration: 0.5s;
 }
 
 #design-page-button .button3:hover,
 .button3:focus {
-  background-color: #B22222;
-  color: #FFFFFF;
+  background-color: #b22222;
+  color: #fff;
 }
 
-
-/*VELA*/
-.design-overview {
-  width: 1200px;
-}
-
-.col-6 {
-  width: 50%;
-  float: left;
-  padding-top: 10px;
-  padding-bottom: 180px;
-  padding-left: 60px;
-  padding-right: 60px;
-}
-
-.col-6 h1 {
-  font-family: 'Days One', sans-serif;
-  font-size: 50px;
-  text-align: left;
-}
-
+/* VELA */
 #design-page-description2 .wrapper {
   max-width: 850px;
 }
@@ -413,7 +391,7 @@ nav a:active {
 
 #design-page-description2 h2 {
   text-align: center;
-  color: #071C45;
+  color: #071c45;
   font-weight: 700;
   margin-top: 100px;
 }
@@ -423,53 +401,50 @@ nav a:active {
 }
 
 #design-page-description2 .product-description2 {
-  margin: 20px 0 20px 0;
+  margin: 20px 0;
 }
-
 
 #design-page-button2 .button2 {
   display: inline-block;
-  border: 2px solid #071C45;
-  background-color: #071C45;
-  color: #FFFFFF;
+  border: 2px solid #071c45;
+  background-color: #071c45;
+  color: #fff;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 12px 22px 14px 22px;
+  padding: 12px 22px 14px;
   transition-duration: 0.5s;
   margin: 0 15px 110px 112px;
 }
 
 #design-page-button2 .button2:hover,
 .button2:focus {
-  background-color: #FFFFFF;
-  color: #071C45;
+  background-color: #fff;
+  color: #071c45;
 }
 
 #design-page-button2 .button3 {
   display: inline-block;
-  border: 2px solid #071C45;
-  background-color: #FFFFFF;
-  color: #071C45;
+  border: 2px solid #071c45;
+  background-color: #fff;
+  color: #071c45;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 12px 22px 14px 22px;
+  padding: 12px 22px 14px;
   transition-duration: 0.5s;
 }
 
 #design-page-button2 .button3:hover,
 .button3:focus {
-  background-color: #071C45;
-  color: #FFFFFF;
+  background-color: #071c45;
+  color: #fff;
 }
-
-
 
 /* Footer */
 footer {
   background-color: #040442;
-  padding: 30px 0 50px 0;
+  padding: 30px 0 50px;
   text-align: center;
 }
 
@@ -479,11 +454,11 @@ footer .wrapper {
 }
 
 footer h2, footer p {
-  color: #FFFFFF;
+  color: #fff;
 }
 
 footer h2 {
-  font-weight:700;
+  font-weight: 700;
   text-align: center;
   margin-bottom: 10px;
 }
@@ -495,7 +470,7 @@ footer p {
 }
 
 footer .button {
-  border-color: #FFFFFF;
+  border-color: #fff;
   margin-top: 10px;
 }
 
@@ -528,7 +503,6 @@ footer svg:hover {
   text-align: center;
 }
 
-
 /* About */
 #about {
   padding-bottom: 5px;
@@ -546,7 +520,7 @@ footer svg:hover {
 }
 
 #about h2 {
-  font-weight:700;
+  font-weight: 700;
   font-size: 30px;
   text-align: center;
   margin-top: 40px;
@@ -559,12 +533,12 @@ footer svg:hover {
 #about .button1 {
   display: inline-block;
   border: 2px solid #040442;
-  background-color: #FFFFFF;
+  background-color: #fff;
   color: #040442;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 10px 36px 12px 36px;
+  padding: 10px 36px 12px;
   margin-left: 5px;
   transition-duration: 0.8s;
 }
@@ -572,7 +546,7 @@ footer svg:hover {
 #about .button1:hover,
 .button1:focus {
   background-color: #040442;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 #about ul {
@@ -580,10 +554,9 @@ footer svg:hover {
   padding: 0;
 }
 
-
 /* Projects */
 #projects h1 {
-  margin: 40px 0 30px 0;
+  margin: 40px 0 30px;
   font-size: 32px;
 }
 
@@ -686,7 +659,7 @@ footer svg:hover {
     width: 85%;
   }
 
-/*FitJet's Design Page*/
+/* FitJet's Design Page */
   #design-page-description .wrapper {
     width: 90%;
   }
@@ -698,9 +671,8 @@ footer svg:hover {
   #design-page-button .button2 {
     margin: 0 15px 90px 30px;
   }
-/*End of tags for FitJet's Design Page*/
 
-/*VELA's Design Page*/
+/* VELA's Design Page */
   #design-page-description2 .wrapper {
     width: 90%;
   }
@@ -712,12 +684,6 @@ footer svg:hover {
   #design-page-button2 .button2 {
     margin: 0 15px 90px 40px;
   }
-/*End of tags for VELA's Design Page*/
-
-}
-
-/* Small devices (landscape phones, less than 768px) */
-@media (max-width: 76px) {
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
@@ -732,14 +698,14 @@ footer svg:hover {
 
   header {
     text-align: center;
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #fff;
     padding-bottom: 8px;
   }
 
   header nav {
     display: table;
     float: none;
-    margin: 0px auto 30px auto;
+    margin: 0 auto 30px;
   }
 
   header ul {
@@ -771,7 +737,7 @@ footer svg:hover {
 
   #hero p {
     font-size: 20px;
-    margin-bottom: 40px
+    margin-bottom: 40px;
   }
 
   #about .wrapper {
@@ -789,14 +755,14 @@ footer svg:hover {
   }
 
   #about .button1 {
-    padding: 10px 38px 12px 38px;
+    padding: 10px 38px 12px;
     margin-left: 70px;
     margin-bottom: 50px;
     font-size: 16px;
   }
 
   #works h2 {
-    margin: 10px auto 20px auto;
+    margin: 10px auto 20px;
     font-size: 32px;
   }
 
@@ -810,7 +776,7 @@ footer svg:hover {
 
   #projects h1 {
     font-size: 23px;
-    margin: 30px 0 10px 0;
+    margin: 30px 0 10px;
   }
 
   #projects h2 {
@@ -827,7 +793,7 @@ footer svg:hover {
     margin-top: 30px;
   }
 
-/*FitJet's Design Page*/
+/* FitJet's Design Page*/
   #design-page-description h2 {
     font-size: 22px;
     margin-top: 60px;
@@ -851,8 +817,6 @@ footer svg:hover {
     margin: 0 15px 90px 35px;
     font-size: 16px;
   }
-/*End of tags for FitJet's Design Page*/
-
 
 /* VELA's Design Page */
   #design-page-description2 h2 {
@@ -879,7 +843,6 @@ footer svg:hover {
     margin-bottom: 40px;
     font-size: 16px;
   }
-/*End of tags for VELA's Design Page*/
 
   body {
     font-size: 17px;
@@ -899,7 +862,7 @@ footer svg:hover {
 
   #contact h2 {
     font-size: 24px;
-    margin: 10px auto 15px auto;
+    margin: 10px auto 15px;
   }
 
   #contact p {
