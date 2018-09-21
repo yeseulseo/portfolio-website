@@ -669,6 +669,7 @@ footer svg:hover {
     width: 80%;
   }
 
+/*FitJet's Design Page*/
   #design-page-description .wrapper {
     width: 90%;
   }
@@ -680,7 +681,9 @@ footer svg:hover {
   #design-page-button .button2 {
     margin: 0 15px 90px 30px;
   }
+/*End of tags for FitJet's Design Page*/
 
+/*VELA's Design Page*/
   #design-page-description2 .wrapper {
     width: 90%;
   }
@@ -692,6 +695,7 @@ footer svg:hover {
   #design-page-button2 .button2 {
     margin: 0 15px 90px 40px;
   }
+/*End of tags for VELA's Design Page*/
 
 }
 
@@ -806,6 +810,7 @@ footer svg:hover {
     margin-top: 30px;
   }
 
+/* VELA's Design Page */
   #design-page-description2 h2 {
     font-size: 22px;
     margin-top: 60px;
@@ -829,6 +834,7 @@ footer svg:hover {
     margin-bottom: 40px;
     font-size: 16px;
   }
+/*End of tags for VELA's Design Page*/
 
   body {
     font-size: 17px;
