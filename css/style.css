@@ -648,6 +648,10 @@ footer svg:hover {
     font-size: 24px;
   }
 
+  #works .overlay-description p {
+    margin-top: 140px;
+  }
+
   #about .wrapper {
     max-width: 700px;
   }
@@ -761,6 +765,30 @@ footer svg:hover {
 
   #projects h2 {
     font-size: 22px;
+  }
+
+  #design-page-description2 h2 {
+    font-size: 22px;
+    margin-top: 60px;
+  }
+
+  #design-page-description2 .wrapper {
+    margin-bottom: 20px;
+  }
+
+  #design-page-description2 .wrapper3 h2 {
+    margin-top: 10px;
+  }
+
+  #design-page-button2 .button2 {
+    margin: 0 15px 15px 40px;
+    font-size: 16px;
+  }
+
+  #design-page-button2 .button3 {
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-size: 16px;
   }
 
   body {
