@@ -1,11 +1,11 @@
 $(document).ready(function() {
   $('.overlay-container').on('mouseenter', function() {
-    $(this).find('.overlay-description').fadeIn();
-  });
+    $(this).find('.overlay-description').fadeIn()
+  })
   $('.overlay-container').on('mouseleave', function() {
-    $(this).find('.overlay-description').fadeOut();
-  });
-});
+    $(this).find('.overlay-description').fadeOut()
+  })
+})
 
 window.onscroll = function() {scrollFunction()};
 
