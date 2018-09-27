@@ -740,6 +740,11 @@ footer svg:hover {
     margin-bottom: 40px;
   }
 
+  #hero .button {
+    margin-top: 10px;
+    padding: 10px 44px 12px;
+  }
+
   #about .wrapper {
     max-width: 95%;
   }
