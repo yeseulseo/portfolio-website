@@ -570,6 +570,10 @@ footer svg:hover {
   font-size: 17px;
 }
 
+#projects .switch {
+  color: #0000cd;
+}
+
 #projects li {
   font-size: 17px;
 }
