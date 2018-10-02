@@ -590,6 +590,10 @@ footer svg:hover {
   max-width: 40%;
 }
 
+#projects .downsize2 {
+  max-width: 30%;
+}
+
 /* Medium devices (tablets, less than 992px) */
 @media all and (max-width: 991px) {
   .md6 {
